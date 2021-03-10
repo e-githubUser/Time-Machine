@@ -1,7 +1,3 @@
-//
-// Created by Yusuf Pisan on 4/2/18.
-//
-
 #include "timespan.h"
 
 #include <cmath>

@@ -1,9 +1,5 @@
-//
-// Created by Yusuf Pisan on 4/2/18.
-//
-
-#ifndef ASS2_TIMESPAN_H
-#define ASS2_TIMESPAN_H
+#ifndef TIMESPAN_H
+#define TIMESPAN_H
 
 #include <iostream>
 using namespace std;
@@ -87,4 +83,4 @@ private:
     int second_;
 };
 
-#endif // ASS2_TIMESPAN_H
+#endif 
